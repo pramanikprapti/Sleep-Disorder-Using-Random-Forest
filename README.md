@@ -56,7 +56,7 @@ Model performance, visualizations, and evaluation metrics are saved.
 
 ## License
 
-This project is licensed under the MIT License. See `LICENSE` file for details.
+This project is licensed under the MIT License.
 
 ## Acknowledgments
 
