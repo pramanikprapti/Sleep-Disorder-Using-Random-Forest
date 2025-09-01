@@ -61,5 +61,5 @@ This project is licensed under the MIT License. See `LICENSE` file for details.
 ## Acknowledgments
 
 - Random Forest algorithm implementation via scikit-learn
-- Dataset sources as referenced in notebooks and documentation
+
 
