@@ -41,9 +41,7 @@ This project predicts sleep disorders using a Random Forest classifier, leveragi
 | Folder/File        | Description               |
 |--------------------|--------------------------|
 | `data/`            | Data loading and preprocessing scripts |
-| `models/`          | Training and model scripts                    |
-| `notebooks/`       | Jupyter notebooks for analysis                |
-                    
+| `models/`          | Training and model scripts                    
 | `requirements.txt` | Python dependencies                           |
 
 ## Results
